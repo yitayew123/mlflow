@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yitayew/Desktop/mlflow/mlruns/0/dbdcc361447e4de48e61cf9357f6a74b/artifacts
+end_time: 1729496287669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbdcc361447e4de48e61cf9357f6a74b
+run_name: calm-crow-574
+run_uuid: dbdcc361447e4de48e61cf9357f6a74b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729496287628
+status: 3
+tags: []
+user_id: yitayew

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yitayew/Desktop/mlflow/mlruns/0/af3fcaa9d2de400a84a1c8b5708dee90/artifacts
+end_time: 1729496278102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af3fcaa9d2de400a84a1c8b5708dee90
+run_name: upbeat-gnat-403
+run_uuid: af3fcaa9d2de400a84a1c8b5708dee90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729496278060
+status: 3
+tags: []
+user_id: yitayew
